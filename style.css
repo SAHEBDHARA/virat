@@ -1,16 +1,6 @@
 body{
   margin: auto;
 
-}
-#ab
-{background-image: url(https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80);
-background-repeat: no-repeat;
-width: 50%;
-height:300px;
-margin: auto;
-border-radius: 9px;
-}
-#nam{
   background-color: #f4511e;
   border: 2px;
   border-radius: 8px;
