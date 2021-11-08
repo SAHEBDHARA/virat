@@ -1,0 +1,46 @@
+body{
+  margin: auto;
+
+}
+#ab
+{background-image: url(https://4.imimg.com/data4/FB/TC/ANDROID-23099367/product-500x500.jpeg);
+background-repeat: no-repeat;
+width: 50%;
+height:300px;
+margin: auto;
+border-radius: 9px;
+}
+#nam{
+  background-color: #f4511e;
+  border: 2px;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  font-size: 16px;
+  /* margin: 0px 0 0 100px; */
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  left: 0;
+  
+}
+#nam:hover {
+  opacity: 1
+}
+#nike{
+  /* margin: 0px 0 10px 312px; */
+   font-size: 25px;
+   left: 100px;
+}
+#error{
+  /* margin: 10px 0 0 312px; */
+  color: red;
+  
+}
+.left-align
+{
+  padding-left: 35%;
+}
